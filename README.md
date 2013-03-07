@@ -14,4 +14,6 @@ Repository Contents
 Hardware License
 ----------------
 
-???
+[Creative Commons Attribution-ShareAlike](http://creativecommons.org/licenses/by-sa/3.0/)
+
+Author: Aaron Weiss @ SparkFun Electonics
